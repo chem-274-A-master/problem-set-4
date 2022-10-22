@@ -1,4 +1,4 @@
-Week 5 Problem Set
+Problem Set 5
 ==================
 
 **NOTE**: Some students have had problems compiling problem sets on Mac OS.
@@ -29,9 +29,8 @@ The file `molecule.cpp` contains some pieces of the now-familar molecule class.
 Your task is to write a function to calculate the molecular formula as a string
 from the atoms contained in the class.
 
-For this exercise, it is enough to repeat the elements (ie, HHO rather than H2O).
-However, the symbols should be in alphabetical order. For an extra challenge, try
-making a proper chemical formula string with the numbers.
+The symbols should be in alphabetical order, with the appropriate element count (ie, H2O),
+not HHO).
 
 **Hint**: It would be helpful to have another lookup table as in the previous problem,
 but going in the opposite direction.
