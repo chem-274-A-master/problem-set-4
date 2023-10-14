@@ -43,7 +43,7 @@ but going in the opposite direction.
 Below is a block of code for a class that contains information about molecular conformers. A conformer, in this case,
 has the same atoms/elements with the same bonds, but a different orientation in space. It is common
 for molecules to be able to adopt different conformations. For example, cyclohexane can adopt the chair, boat, and twist-boat
-conformations (see ![https://en.wikipedia.org/wiki/Cyclohexane_conformation](https://en.wikipedia.org/wiki/Cyclohexane_conformation)).
+conformations (see [https://en.wikipedia.org/wiki/Cyclohexane_conformation](https://en.wikipedia.org/wiki/Cyclohexane_conformation)).
 
 ```C++
 class MoleculeConformers
