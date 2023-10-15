@@ -23,9 +23,9 @@ This portion of the Problem Set will be graded out of 20 points and is worth 8% 
         <td>
             Points
                 <ul>
-                    <li> 4 points
                     <li> 3 points
-                    <li> 2 points
+                    <li> 3 points
+                    <li> 1 points
                 </ul>
         </td>
     </tr>
@@ -43,7 +43,21 @@ This portion of the Problem Set will be graded out of 20 points and is worth 8% 
                 <ul>
                     <li> 4 points
                     <li> 3 points
-                    <li> 2 points
+                    <li> 1 points
+                </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Class Design Questions
+                <ul>
+                    <li> Question answered correctly (0.5 point each)
+                </ul>
+        </td>
+        <td>
+            Points
+                <ul>
+                    <li> 4 points
                 </ul>
         </td>
     </tr>
@@ -52,7 +66,7 @@ This portion of the Problem Set will be graded out of 20 points and is worth 8% 
             Makefile
         </td>
         <td>
-            2 points
+            1 points
         </td>
     </tr>
 
