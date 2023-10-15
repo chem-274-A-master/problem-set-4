@@ -6,24 +6,26 @@ This is due to the Apple compiler being very conservative with its choice of
 C++ standards. Using the C++11 standard should make this work -- use `g++ -std=c++11`
 to enable this.
 
-Sorting w/ Lookup
-------------------------------
+### Makefile
+For the next two parts, create a single makefile contains a target for compiling the source files,
+and a target for running the resulting binaries.
+
+## Sorting w/ Lookup
 
 The file `sort_atoms.cpp` contains a vector of strings, with each
 string containing an element symbol.
 
-1.) Sort this list such that all elements are in order by their element
+1. Sort this list such that all elements are in order by their element
     number (not in alphabetical order). Print out this sorted vector.
 
-2.) Find the unique elements of the vector (ie, remove duplicates), and print those out.
+2. Find the unique elements of the vector (ie, remove duplicates), and print those out.
 
 **Hint**: For #1, you should create a lookup table with an std::map, which you can use
 to find the element number given a symbol. Then you need to write a custom
 comparison function.
 
 
-Calculating the Molecular Formula
----------------------------------
+## Calculating the Molecular Formula
 
 The file `molecule.cpp` contains some pieces of the now-familar molecule class.
 Your task is to write a function to calculate the molecular formula as a string
@@ -36,8 +38,7 @@ not HHO).
 but going in the opposite direction.
 
 
-Class Design
-------------
+## Class Design
 
 Below is a block of code for a class that contains information about molecular conformers. A conformer, in this case,
 has the same atoms/elements with the same bonds, but a different orientation in space. It is common
@@ -83,8 +84,7 @@ class MoleculeConformers
 };
 ```
 
-Questions
-=========
+### Questions
 
 Answer these questions in a README file. No need to write/compile any code for this, although you are free to do so
 to test some of your answers.
