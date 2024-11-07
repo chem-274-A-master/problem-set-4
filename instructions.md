@@ -31,11 +31,29 @@ The file `molecule.cpp` contains some pieces of the now-familar molecule class.
 Your task is to write a function to calculate the molecular formula as a string
 from the atoms contained in the class.
 
-The symbols should be in alphabetical order, with the appropriate element count (ie, H2O),
+The symbols should be in alphabetical order, with the appropriate element count (ie, H2O,
 not HHO).
 
 **Hint**: It would be helpful to have another lookup table as in the previous problem,
 but going in the opposite direction.
+
+
+## Profiling C++ Code
+
+In this repo is a file `mcsim_cpp.cpp` which contains code for the `mcscim`
+package from the bootcamp. Using `gprof`, profile this code and include the
+output in a file in this repo. Iinclude anything you find surprising
+or interesting. Put this information into the README.
+
+Do the above for two optimzation levels - `-O0` and `-O3`. Is there anything
+interesting about one compared to the other?
+
+
+## Profiling Python Code
+
+Similar to the above, but profiling the `mcsim_psl.py` program with python's
+cProfile. There are no optimization levels, so only one profiler run needs
+to be done. You can visualize the results using a program called [snakeviz](https://jiffyclub.github.io/snakeviz/). Is there anything taking a surprising amount of time?
 
 
 ## Class Design

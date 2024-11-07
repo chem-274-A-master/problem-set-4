@@ -1,6 +1,6 @@
 # Problem Set 4 Rubric
 
-This portion of the Problem Set will be graded out of 20 points and is worth 8% of your total grade.
+This portion of the Problem Set will be graded out of 25 points and is worth 8% of your total grade.
 
 <table width="100%">
     <tr>
@@ -45,6 +45,22 @@ This portion of the Problem Set will be graded out of 20 points and is worth 8% 
                     <li> 3 points
                     <li> 1 points
                 </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+           Profiling
+           <ul>
+             <li>Profiling results/discussion of the C++ code</li>
+             <li>Profiling results/discussion of the Python code</li>
+           </ul>
+        </td>
+        <td>
+            Points
+            <ul>
+              <li>3 points</li>
+              <li>2 points</li>
+            </ul>
         </td>
     </tr>
     <tr>
