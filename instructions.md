@@ -20,10 +20,6 @@ string containing an element symbol.
 
 2. Find the unique elements of the vector (ie, remove duplicates), and print those out.
 
-**Hint**: For #1, you should create a lookup table with an std::map, which you can use
-to find the element number given a symbol. Then you need to write a custom
-comparison function.
-
 
 ## Calculating the Molecular Formula
 
@@ -33,9 +29,6 @@ from the atoms contained in the class.
 
 The symbols should be in alphabetical order, with the appropriate element count (ie, H2O,
 not HHO).
-
-**Hint**: It would be helpful to have another lookup table as in the previous problem,
-but going in the opposite direction.
 
 
 ## Profiling C++ Code

@@ -82,7 +82,9 @@ This portion of the Problem Set will be graded out of 25 points and is worth 8% 
             Makefile
         </td>
         <td>
-            1 points
+            <ul>
+                <li>1 point
+            </ul>
         </td>
     </tr>
 
