@@ -35,18 +35,22 @@ not HHO).
 
 In this repo is a file `mcsim_cpp.cpp` which contains code for the `mcscim`
 package from the bootcamp. Using `gprof`, profile this code and include the
-output in a file in this repo. Iinclude anything you find surprising
-or interesting. Put this information into the README.
+output in a file in this repo.
 
-Do the above for two optimzation levels - `-O0` and `-O3`. Is there anything
-interesting about one compared to the other?
+Also perform this analysis for two explicit optimzation levels - `-O0` and `-O3`.
+
+In the README, discuss the results of the profiling. Include what the most expensive functions are,
+and whether or not that is something that could be optimized further.
 
 
 ## Profiling Python Code
 
 Similar to the above, but profiling the `mcsim_psl.py` program with python's
 cProfile. There are no optimization levels, so only one profiler run needs
-to be done. You can visualize the results using a program called [snakeviz](https://jiffyclub.github.io/snakeviz/). Is there anything taking a surprising amount of time?
+to be done. You can visualize the results using a program called [snakeviz](https://jiffyclub.github.io/snakeviz/).
+
+Similar to above, discuss the results of the profiling, especially if one function stands out as being
+much more expensive than you would have expected.
 
 
 ## Class Design
