@@ -1,6 +1,6 @@
 # Problem Set 4 Rubric
 
-This portion of the Problem Set will be graded out of 25 points and is worth 8% of your total grade.
+This portion of the Problem Set will be graded out of 20 points and is worth 8% of your total grade.
 
 <table width="100%">
     <tr>
@@ -23,9 +23,9 @@ This portion of the Problem Set will be graded out of 25 points and is worth 8% 
         <td>
             Points
                 <ul>
-                    <li> 3 points
-                    <li> 3 points
-                    <li> 1 points
+                    <li> 2 points
+                    <li> 2 points
+                    <li> 0.5 points
                 </ul>
         </td>
     </tr>
@@ -41,9 +41,9 @@ This portion of the Problem Set will be graded out of 25 points and is worth 8% 
         <td>
             Points
                 <ul>
-                    <li> 4 points
                     <li> 3 points
-                    <li> 1 points
+                    <li> 3 points
+                    <li> 0.5 points
                 </ul>
         </td>
     </tr>
@@ -58,7 +58,7 @@ This portion of the Problem Set will be graded out of 25 points and is worth 8% 
         <td>
             Points
             <ul>
-              <li>3 points</li>
+              <li>2 points</li>
               <li>2 points</li>
             </ul>
         </td>
