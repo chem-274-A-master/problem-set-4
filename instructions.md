@@ -37,6 +37,10 @@ In this repo is a file `mcsim_cpp.cpp` which contains code for the `mcscim`
 package from the bootcamp. Using `gprof`, profile this code and include the
 output in a file in this repo.
 
+**Note for Mac users** - gprof generally doesn't run on Mac. We will accept the use of another
+analysis tool, such as xctrace from Xcode or gperftools (Google Performance Tools).
+You should also be able to run gprof on a github codespace.
+
 Also perform this analysis for two explicit optimzation levels - `-O0` and `-O3`.
 
 In the README, discuss the results of the profiling. Include what the most expensive functions are,
